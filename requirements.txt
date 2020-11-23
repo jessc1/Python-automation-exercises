@@ -10,3 +10,4 @@ python-docx==0.8.10
 jinja2==2.11.1
 mistune==0.8.4
 python-docx==0.8.10
+fpdf==1.7.2
